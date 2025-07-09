@@ -1,3 +1,4 @@
+
 # 📖 Glosario Completo de Ciberseguridad
 
 Bienvenido al **Glosario de Ciberseguridad**, un repositorio diseñado para ayudarte a comprender de forma clara y estructurada los términos, conceptos y amenazas más comunes en el mundo de la seguridad informática. Ideal para estudiantes, profesionales en formación o cualquier persona interesada en fortalecer sus conocimientos en el área.
@@ -25,10 +26,10 @@ Este glosario incluye:
 
 ## 🧠 ¿A quién va dirigido?
 
-- Estudiantes de ciberseguridad
-- Analistas SOC
-- Pentesters y Red/Blue Teams
-- Candidatos a certificaciones (CISSP, CISA, CompTIA, etc.)
+- Estudiantes de ciberseguridad  
+- Analistas SOC  
+- Pentesters y Red/Blue Teams  
+- Candidatos a certificaciones (CISSP, CISA, CompTIA, etc.)  
 
 ---
 
@@ -36,9 +37,9 @@ Este glosario incluye:
 
 El glosario está dividido en:
 
-- **🔧 Conceptos y Herramientas Clave**
-- **📌 Términos Adicionales Recomendados**
-- **⚔️ Tipos de Ataques Comunes**
+- **🔧 Conceptos y Herramientas Clave**  
+- **📌 Términos Adicionales Recomendados**  
+- **⚔️ Tipos de Ataques Comunes**  
 
 Puedes consultar directamente los términos más abajo o acceder al archivo [`glosario.md`](./glosario.md) si deseas una versión separada.
 
@@ -62,7 +63,7 @@ Distribuido bajo licencia MIT. Úsalo libremente para tus proyectos, estudios o 
 
 ## 🔧 Conceptos y Herramientas Clave
 
- **ACL (Access Control List):** Lista de reglas que define permisos de acceso a recursos en sistemas o redes.
+- **ACL (Access Control List):** Lista de reglas que define permisos de acceso a recursos en sistemas o redes.
 
 - **Adware:** Software que muestra publicidad no deseada, a menudo intrusiva o maliciosa.
 
@@ -256,6 +257,8 @@ Distribuido bajo licencia MIT. Úsalo libremente para tus proyectos, estudios o 
 
 - **Zero Trust:** Modelo de seguridad que no confía automáticamente y siempre verifica.
 
+---
+
 ## 📌 Términos Adicionales Recomendados
 
 - **Análisis de Riesgos:** Proceso para identificar activos, amenazas, vulnerabilidades, impactos y probabilidades para definir controles.
@@ -303,6 +306,8 @@ Distribuido bajo licencia MIT. Úsalo libremente para tus proyectos, estudios o 
 - **Seguridad en la Nube:** Políticas y controles para proteger datos y servicios cloud.
 
 - **Seguridad Perimetral:** Protección de los límites de una red para evitar accesos no autorizados.
+
+---
 
 ## ⚔️ Tipos de Ataques Comunes
 
