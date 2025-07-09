@@ -1,8 +1,68 @@
 # 📖 Glosario Completo de Ciberseguridad
 
-## Conceptos y Herramientas Clave
+Bienvenido al **Glosario de Ciberseguridad**, un repositorio diseñado para ayudarte a comprender de forma clara y estructurada los términos, conceptos y amenazas más comunes en el mundo de la seguridad informática. Ideal para estudiantes, profesionales en formación o cualquier persona interesada en fortalecer sus conocimientos en el área.
 
-- **ACL (Access Control List):** Lista de reglas que define permisos de acceso a recursos en sistemas o redes.
+---
+
+## 📚 Contenido
+
+Este glosario incluye:
+
+- Conceptos clave de ciberseguridad y herramientas.
+- Términos técnicos esenciales en el ámbito profesional.
+- Tipos de ataques más frecuentes.
+- Referencias a estándares reconocidos como [NIST](https://www.nist.gov/cyberframework), [MITRE ATT&CK](https://attack.mitre.org/) y [OWASP Top Ten](https://owasp.org/www-project-top-ten/).
+
+---
+
+## 📘 ¿Por qué usar este glosario?
+
+🔐 **Actualizado**: incluye términos modernos y relevantes como *Zero Trust*, *EDR*, *Cloud Security*, etc.  
+📌 **Didáctico**: cada entrada está explicada de forma clara y concisa.  
+🌐 **Accesible**: ideal como material de consulta, para entrevistas o exámenes técnicos.  
+
+---
+
+## 🧠 ¿A quién va dirigido?
+
+- Estudiantes de ciberseguridad
+- Analistas SOC
+- Pentesters y Red/Blue Teams
+- Candidatos a certificaciones (CISSP, CISA, CompTIA, etc.)
+
+---
+
+## 🗂 Estructura del Glosario
+
+El glosario está dividido en:
+
+- **🔧 Conceptos y Herramientas Clave**
+- **📌 Términos Adicionales Recomendados**
+- **⚔️ Tipos de Ataques Comunes**
+
+Puedes consultar directamente los términos más abajo o acceder al archivo [`glosario.md`](./glosario.md) si deseas una versión separada.
+
+---
+
+## 📎 Licencia
+
+Distribuido bajo licencia MIT. Úsalo libremente para tus proyectos, estudios o investigaciones.
+
+---
+
+## 🧩 Contribuciones
+
+¿Quieres sugerir nuevos términos o mejorar definiciones? ¡Pull requests bienvenidos!
+
+---
+
+*Este glosario integra definiciones adaptadas de fuentes reconocidas como INCIBE, NIST, MITRE, OWASP y literatura académica.*
+
+---
+
+## 🔧 Conceptos y Herramientas Clave
+
+ **ACL (Access Control List):** Lista de reglas que define permisos de acceso a recursos en sistemas o redes.
 
 - **Adware:** Software que muestra publicidad no deseada, a menudo intrusiva o maliciosa.
 
@@ -196,7 +256,7 @@
 
 - **Zero Trust:** Modelo de seguridad que no confía automáticamente y siempre verifica.
 
-## Términos adicionales recomendados
+## 📌 Términos Adicionales Recomendados
 
 - **Análisis de Riesgos:** Proceso para identificar activos, amenazas, vulnerabilidades, impactos y probabilidades para definir controles.
 
@@ -244,7 +304,7 @@
 
 - **Seguridad Perimetral:** Protección de los límites de una red para evitar accesos no autorizados.
 
-## Tipos de Ataques Comunes
+## ⚔️ Tipos de Ataques Comunes
 
 - **Brute Force:** Prueba masiva de contraseñas para acceder a un sistema.
 
